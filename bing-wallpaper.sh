@@ -37,7 +37,7 @@ print_message() {
 }
 
 # Defaults
-PICTURE_DIR="$HOME/Pictures/bing-wallpapers/"
+PICTURE_DIR="$HOME/Documents/Photos/Bing/"
 RESOLUTION="1920x1080"
 
 # Option parsing
